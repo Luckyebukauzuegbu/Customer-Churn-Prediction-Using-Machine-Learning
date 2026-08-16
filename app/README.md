@@ -1,6 +1,6 @@
 # Streamlit Application
 
-This folder contains the Streamlit interface for the Bank Customer Churn Prediction capstone project.
+This folder contains the Streamlit interface for the Bank Customer Churn Prediction project.
 
 The application:
 
@@ -9,6 +9,6 @@ The application:
 - Calculates the predicted probability of churn.
 - Applies the selected classification threshold of 0.57.
 - Assigns customers to Low, Moderate, High or Very High risk tiers.
-- Supports human-supervised customer-retention prioritisation.
+- Supports human-supervised customer-retention prioritization.
 
 The application is an educational proof of concept trained on synthetic data and is not intended for real banking decisions without validation using genuine banking data.
